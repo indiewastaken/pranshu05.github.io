@@ -1,0 +1,284 @@
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+  background: black;
+}
+::-webkit-scrollbar-thumb {
+  background: orange; 
+  border-radius: 10px;
+}
+.pimg1,.pimg2,.pimg3,.pimg4,.pimg5,.pimg6,.pimg7,.pimg8,.pimg9,.pimg10,.pimg11{
+  position:relative;
+  opacity:0.70;
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+}
+@media only screen and (max-width: 600px) {}
+.pimg10{
+  background-image:url('https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2020/03/laptop-working-home.jpeg');
+  min-height:400px;
+}
+.pimg9{
+  background-image:url('https://wallpaperaccess.com/full/279547.jpg');
+  min-height:400px;
+}
+.pimg5{
+  background-image:url('https://www.hobbsparker.co.uk/wp-content/uploads/CR-BG-Computer-HERO-08-16.jpg');
+  min-height:400px;
+}
+.pimg6{
+  background-image:url('https://www.webcodebuddy.com/wp-content/uploads/2018/06/Benefits-of-learning-to-code-820x400.jpeg');
+  min-height:400px;
+}
+.pimg7{
+  background-image:url('https://miro.medium.com/max/6300/1*Z7boPZktSNmP5P8uqDzqBQ.jpeg');
+  min-height:400px;
+}
+.pimg8{
+  background-image:url('http://www.ashercharles.com/wp-content/themes/v3/images/banner-main-large4.jpg');
+  min-height:400px;
+}
+.pimg4{
+  background-image:url('https://miro.medium.com/max/6330/1*5_QSQauGElzmvYRyjl1Ofw.png');
+  min-height:700px;
+}
+
+.pimg2{
+  background-image:url('https://www.michiganradio.org/sites/michigan/files/201510/3382865257_7dedef23b0_o.jpg');
+  min-height:400px;
+}
+.pimg1{
+  background-image:url('https://i.pinimg.com/originals/37/8c/d4/378cd4ea61758d6e802d4612b9c76583.jpg');
+  min-height:400px;
+}
+.pimg3{
+  background-image:url('http://poundperday.net/wp-content/uploads/2020/05/banner-pay.jpg');
+  min-height:400px;
+}
+.pimg11{
+  background-image:url('https://miro.medium.com/max/6300/1*Z7boPZktSNmP5P8uqDzqBQ.jpeg');
+  min-height:400px;
+}
+
+  a:hover {
+  color: orange;
+  opacity: 1;
+  top: -3px;
+}
+a {
+  font-weight: bold;
+  display: inline block;
+  color: orange;
+}
+.dp{
+	margin-top: 2em;
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	padding: 1em;
+	transition: transform .5s;	
+}
+.dp:hover{
+	transform: scale(2.00) rotate(359deg);
+}
+.name{
+	width: 280px;
+	background-color:#ffffff;
+  }
+
+.ptext{
+  position:absolute;
+  top:25%;
+  width:100%;
+font-weight:bold;
+ color: white; 
+ font-size:350%;
+  text-align: left;
+  text-transform:uppercase;
+}
+.tag{
+	border-radius: 4px;
+	margin: .25em auto;
+	padding: 10px 20px;
+}
+.section{
+	margin-left: 170px;
+	margin-right: 170px;
+	border-radius: 1%;
+	padding: 1.5em 1.5em;
+    min-height: 100px;
+  	color: #ffffff;
+ 	 background-color:#000000;
+}
+.navbar-default {
+  background-color: #000000;
+  padding-right: 50px;
+ color: orange;
+}
+.navbar-brand {
+  color: orange;
+  padding-left: 50px;
+  text-transform: uppercase;
+}
+#title {
+  padding-top: 50px;
+  text-align: left;
+  font-size: 150%;
+  background-color: #000000;
+  height: 100%; 
+  }
+#title > hr {
+  border-width: 4px;
+  margin-bottom: 80px;
+  margin-top: 80px;
+  width: 10%;
+}
+#title > .inline buttons {
+  padding-top: 50px; 
+}
+ body {
+	 font-family:  Comic Sans MS;
+   background-color: #000000;
+   height: 100%; 
+   
+}
+#profile{
+  background-color: #000000;
+  padding-top: 100px;
+  text-align: left;
+  font-size: 150%;
+  font-family: Comic Sans MS;
+  height: 100%; 
+}
+footer {
+  background-color: #000000 ;
+  color:#ffffff ;
+  font-size: 85%; 
+  height: 100px;
+  width: 100%;
+  text-transform: uppercase;
+  text-align: left;
+  padding-left: 50px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}table,th,td{
+border:  solid white ;
+  font-size: 100%;
+}
+.project{
+  text-align: center;
+  font-size: 150%;
+  font-family: sans-sarif;
+  color: #ffffff;
+}
+.meet{
+  text-align: center;
+  font-size: 150%;
+  font-family: sans-sarif;
+  color: #ffffff;
+}
+  .form{
+    margin-top: 50px;
+    transition all 4s ease-in-out;
+   
+  }
+  .form-control{
+    width:800px;
+    margin: auto;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid white;
+    margin-top: 16px;
+    font-size: 18px;
+     }
+  input{
+    height: 45px;
+    background: orange;
+    border-color: transparent;
+    text-align: center;
+  }
+.contact {
+  border-radius: 5px;
+  background-color:#000000;
+  padding: 20px;
+  height: 100%; 
+color: #ffffff;
+}
+.con{
+  text-align: center;
+  font-size: 150%;
+    font-family: sans-sarif;
+padding-top: 100px;
+    color: #ffffff;
+}
+@import url(https://fonts.googleapis.com/css?family=Catamaran:600);
+.mySlides {display:none;
+padding-bottom: 80px;
+}
+.w3-left, .w3-right, .w3-badge {cursor:pointer;
+}
+.w3-badge {height:13px;width:13px;padding:0;color: black;}
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.code-area {
+  display: flex;
+  flex-direction:column;
+  width: 100%;
+  height: 500px;
+  border-right:1px solid #555;
+
+}
+.code-area textarea {
+  resize: none;
+  outline: none;
+  width: 100%;
+  height: 500px;
+  font-size: 18px;
+  padding: 10px;
+}
+.preview-area {
+  width: 100%;
+  height: 500px;
+  background-color: #ffffff;
+  
+}
+.preview-area iframe {
+  width: 100%;
+  height: 500px;
+  border: none;
+  background-color: #ffffff;
+ 
+}
+    ::-webkit-scrollbar {
+  width: 20px;
+    }
+    .alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
