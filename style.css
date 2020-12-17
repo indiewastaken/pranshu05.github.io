@@ -20,6 +20,17 @@
   background-image:url('https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2020/03/laptop-working-home.jpeg');
   min-height:400px;
 }
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  background: none;
+  border: none;
+ 
+ 
+}
+
 .pimg9{
   background-image:url('https://wallpaperaccess.com/full/279547.jpg');
   min-height:400px;
