@@ -7,6 +7,14 @@
   background: orange; 
   border-radius: 10px;
 }
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  background-color: white;
+  border-radius: 100px; 
+}
 .pimg1,.pimg2,.pimg3,.pimg4,.pimg5,.pimg6,.pimg7,.pimg8,.pimg9,.pimg10,.pimg11{
   position:relative;
   opacity:0.70;
@@ -19,16 +27,6 @@
 .pimg10{
   background-image:url('https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2020/03/laptop-working-home.jpeg');
   min-height:400px;
-}
-#myBtn {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 30px;
-  background: none;
-  border: none;
- 
- 
 }
 
 .pimg9{
