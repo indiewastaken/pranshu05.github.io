@@ -234,42 +234,7 @@ padding-bottom: 80px;
 .w3-left, .w3-right, .w3-badge {cursor:pointer;
 }
 .w3-badge {height:13px;width:13px;padding:0;color: black;}
-* {
-  margin: 0px;
-  padding: 0px;
-  box-sizing: border-box;
-}
 
-.code-area {
-  display: flex;
-  flex-direction:column;
-  width: 100%;
-  height: 500px;
-  border-right:1px solid #555;
-
-}
-.code-area textarea {
-  resize: vertical;
-  outline: none;
-  width: 100%;
-  height: 500px;
-  font-size: 18px;
-  padding: 10px;
-}
-.preview-area {   
-  width: 100%;
-  height: 500px;
-  background-color: #ffffff;
-	
-}
-.preview-area iframe {
-  width: 100%;
-  height: 500px;
-  border: solid black;
-padding-bottom: 50px;
-    background-color: #ffffff;
-  background-radius: 25px;
-}
 textarea{
 resize: vertical;
 }
