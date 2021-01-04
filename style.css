@@ -84,14 +84,14 @@ a {
 }
 .dp{
 	margin-top: 2em;
-	width: 200px;
-	height: 200px;
+	width: 224px;
+	height: 224px;
 	border-radius: 100%;
 	padding: 1em;
 	transition: transform .5s;	
 }
 .dp:hover{
-	transform: scale(2.00) rotate(359deg);
+	transform: scale(2.00) rotate(360deg);
 }
 .name{
 	width: 280px;
