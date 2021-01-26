@@ -13,6 +13,8 @@
   position: fixed;
   bottom: 20px;
   right: 30px;
+  width: 4%;
+  height: 4%;
 }
 .pimg1,.pimg2,.pimg3,.pimg4,.pimg5,.pimg6,.pimg7,.pimg8,.pimg9,.pimg10,.pimg11{
   position:relative;
