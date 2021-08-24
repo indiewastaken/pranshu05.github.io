@@ -16,7 +16,7 @@
   width: 4%;
   height: 4%;
 }
-.pimg1,.pimg2,.pimg3,.pimg4,.pimg5,.pimg6,.pimg7,.pimg8,.pimg9,.pimg10,.pimg11{
+.pimg1,.pimg2,.pimg3,.pimg4,.pimg5,.pimg6,.pimg7,.pimg8,.pimg9,.pimg10,.pimg11,.p1,.p2,.p3,.p4,.p5,.p6,.p7{
   position:relative;
   opacity:0.70;
   background-position:center;
@@ -25,6 +25,34 @@
   background-attachment:fixed;
 }
 @media only screen and (max-width: 600px) {}
+.p1{
+background-image:url('https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80');
+min-height:400px;
+}
+.p2{
+background-image:url('https://csharp-station.com/wp-content/uploads/2019/08/Person-coding-on-laptop.jpg');
+min-height:400px;
+}
+.p3{
+background-image:url('https://beebom.com/wp-content/uploads/2018/03/15-Best-Laptops-for-Programming-in-India.jpg');
+min-height:400px;
+}
+.p4{
+background-image:url('https://www.techrepublic.com/a/hub/i/r/2019/08/06/53468105-5f4b-45dc-b51d-9c901a348849/resize/1200x/11c5f180724798e54b70230c844a129a/istock-1036557452.jpg');
+min-height:400px;
+}
+.p5{
+background-image:url('https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80');
+min-height:400px;
+}
+.p6{
+background-image:url('https://mytechdecisions.com/wp-content/uploads/2021/03/AdobeStock_243235953-1000x500.jpeg');
+min-height:400px;
+}
+.p7{
+background-image:url('https://images.wallpapersden.com/image/download/programming-coding-language_bGhpbm6UmZqaraWkpJRmbmdlrWZlbWU.jpg');
+min-height:400px;
+}
 .pimg10{
   background-image:url('https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2020/03/laptop-working-home.jpeg');
   min-height:400px;
