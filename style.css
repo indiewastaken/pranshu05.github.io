@@ -50,7 +50,7 @@ background-image:url('https://mytechdecisions.com/wp-content/uploads/2021/03/Ado
 min-height:400px;
 }
 .p7{
-background-image:url('https://images.wallpapersden.com/image/download/programming-coding-language_bGhpbm6UmZqaraWkpJRmbmdlrWZlbWU.jpg');
+background-image:url('https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80');
 min-height:400px;
 }
 .pimg10{
@@ -146,9 +146,9 @@ font-weight:bold;
 	margin-right: 170px;
 	border-radius: 1%;
 	padding: 1.5em 1.5em;
-    min-height: 100px;
+        min-height: 100px;
   	color: #ffffff;
- 	 background-color:#000000;
+  	background-color:#000000;
 }
 .navbar-default {
   background-color: #000000;
@@ -177,7 +177,7 @@ font-weight:bold;
   padding-top: 50px; 
 }
  body {
-	 font-family:  Comic Sans MS;
+   font-family: Sora;
    background-color: #000000;
    height: 100%; 
    
@@ -187,7 +187,7 @@ font-weight:bold;
   padding-top: 100px;
   text-align: left;
   font-size: 150%;
-  font-family: Comic Sans MS;
+  font-family: Sora;
   height: 100%; 
 }
 footer {
@@ -204,20 +204,21 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}table,th,td{
-border:  solid white ;
+}
+table,th,td{
+  border:  solid white ;
   font-size: 100%;
 }
 .project{
   text-align: center;
   font-size: 150%;
-  font-family: sans-sarif;
+  font-family: Sora;
   color: #ffffff;
 }
 .meet{
   text-align: center;
   font-size: 150%;
-  font-family: sans-sarif;
+  font-family: Sora;
   color: #ffffff;
 }
   .form{
@@ -251,10 +252,11 @@ color: #ffffff;
 .con{
   text-align: center;
   font-size: 150%;
-    font-family: sans-sarif;
-padding-top: 100px;
-    color: #ffffff;
+  font-family: Sora;
+  padding-top: 100px;
+  color: #ffffff;
 }
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
 @import url(https://fonts.googleapis.com/css?family=Catamaran:600);
 .mySlides {display:none;
 padding-bottom: 80px;
