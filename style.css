@@ -279,7 +279,7 @@ resize: vertical;
   color: black;
 }
 table.paleBlueRows {
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-family: Sora;
   border: 1px solid #FFFFFF;
   background-color: #000000;
   width: 900px;
@@ -292,7 +292,7 @@ table.paleBlueRows td, table.paleBlueRows th {
   padding: 2px 2px;
 }
 table.paleBlueRows tbody td {
-  font-size: 12px;
+  font-size: 17px;
   font-weight: bold;
   color: #FFFFFF;
 }
