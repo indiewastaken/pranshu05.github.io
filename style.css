@@ -267,8 +267,7 @@ resize: vertical;
   width: 20px;
     }
 .alert {
-  padding-top: 50px;
-  padding: 20px;
+  padding-top: 60px;
   background-color: #f44336;
   color: white;
 }
