@@ -136,11 +136,8 @@ a {
 	padding: 10px 20px;
 }
 .section{
-	margin-left: 170px;
-	margin-right: 170px;
-	border-radius: 1%;
-	padding: 1.5em 1.5em;
-        min-height: 100px;
+	margin-left: justify;
+	margin-right: justify;
   	color: #ffffff;
   	background-color:#000000;
 }
@@ -260,24 +257,6 @@ resize: vertical;
 ::-webkit-scrollbar {
   width: 20px;
     }
-.alert {
-  padding-top: 60px;
-  background-color: #f44336;
-  color: white;
-}
-.closebtn {
-  margin-left: 15px;
-  color: white;
-  font-weight: bold;
-  float: right;
-  font-size: 22px;
-  line-height: 20px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-.closebtn:hover {
-  color: black;
-}
 table.paleBlueRows {
   font-family: Sora;
   border: 1px solid #FFFFFF;
