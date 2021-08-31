@@ -309,3 +309,8 @@ table.paleBlueRows tfoot .links a{
   padding: 2px 8px;
   border-radius: 5px;
 }
+@media only screen and (max-width:800px){
+[class*="section"] {
+  width: 100%;
+}
+}
