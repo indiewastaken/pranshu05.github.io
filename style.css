@@ -136,10 +136,14 @@ a {
 	padding: 10px 20px;
 }
 .section{
-	margin-left: auto;
-	margin-right: auto;
-  	color: #ffffff;
-  	background-color:#000000;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffffff;
+    background-color: #000000;
+}
 }
 .navbar-default {
   background-color: #000000;
