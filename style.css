@@ -313,4 +313,10 @@ table.paleBlueRows tfoot .links a{
 [class*="section"] {
   width: 100%;
 }
+[class*="pimg"] {
+  width: 100%;
+}
+[class*="table"] {
+  width: 100%;
+}
 }
