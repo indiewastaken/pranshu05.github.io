@@ -320,4 +320,7 @@ table.paleBlueRows tfoot .links a{
 [class*="css"] {
   width: 100%;
 }
+[class*="contact-form"] {
+  width: 100%;
+}
 }
