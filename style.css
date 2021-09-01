@@ -267,7 +267,7 @@ table.paleBlueRows {
   font-family: Sora;
   border: 1px solid #FFFFFF;
   background-color: #000000;
-  max-width: 900px;
+  width: 900px;
   height: 550px;
   text-align: left;
   border-collapse: collapse;
