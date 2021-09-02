@@ -320,7 +320,7 @@ table.paleBlueRows tfoot .links a{
   width: 100%;
 }
 }
-@media (max-width: 900px) {
+@media (max-width: 997px) {
   .navbar-header {
       float: none;
   }
