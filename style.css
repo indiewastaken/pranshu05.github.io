@@ -324,7 +324,7 @@ table.paleBlueRows tfoot .links a{
   .navbar-header {
       float: none;
   }
-  .navbar-left,.navbar-right {
+  .navbar-left .navbar-right {
       float: none !important;
   }
   .navbar-toggle {
@@ -338,7 +338,7 @@ table.paleBlueRows tfoot .links a{
       top: 0;
       border-width: 0 0 1px;
   }
-  .navbar-collapse.collapse {
+  .navbar-collapse .collapse {
       display: none!important;
   }
   .navbar-nav {
