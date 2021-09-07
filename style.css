@@ -315,9 +315,13 @@ table.paleBlueRows tfoot .links a{
 @media only screen and (max-width:900px){
 [class*="section"] {
   width: 100%;
+  margin: 0;
 }
 [class*="pimg"] {
   width: 100%;
+}
+body{
+width: 100%:
 }
 }
 
