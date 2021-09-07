@@ -23,7 +23,6 @@
   background-repeat:no-repeat;
   background-attachment:fixed;
 }
-@media only screen and (max-width: 1000px) {}
 .p1{
 background-image:url('https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80');
 min-height:400px;
@@ -306,9 +305,5 @@ table.paleBlueRows tfoot .links a{
   color: #FFFFFF;
   padding: 2px 8px;
   border-radius: 5px;
-}
-@media only screen and (max-width:900px){
-[class*="pimg"] {
-  width: 100%;
 }
 }
