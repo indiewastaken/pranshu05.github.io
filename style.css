@@ -23,6 +23,7 @@
   background-repeat:no-repeat;
   background-attachment:fixed;
 }
+@media only screen and (max-width: 600px) {}
 .p1{
 background-image:url('https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80');
 min-height:400px;
@@ -118,8 +119,7 @@ a {
 }
 .name{
 	width: 280px;
-    color: #000000;
-	background-color:#c9c9c9;
+	background-color:#ffffff;
   }
 .ptext{
   position:absolute;
@@ -135,6 +135,15 @@ a {
 	border-radius: 4px;
 	margin: .25em auto;
 	padding: 10px 20px;
+}
+.section{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffffff;
+    background-color: #000000;
 }
 .navbar-default {
   background-color: #000000;
@@ -165,7 +174,6 @@ a {
 }
  body {
    font-family: Sora;
-   color: #fff;
    background-color: #000000;
    height: 100%; 
    
@@ -257,8 +265,6 @@ resize: vertical;
     }
 table.paleBlueRows {
   font-family: Sora;
-  margin-left:auto;
-  margin-right:auto;
   border: 1px solid #FFFFFF;
   background-color: #000000;
   width: 900px;
@@ -305,5 +311,16 @@ table.paleBlueRows tfoot .links a{
   color: #FFFFFF;
   padding: 2px 8px;
   border-radius: 5px;
+}
+@media only screen and (max-width:900px){
+[class*="section"] {
+  width: 100%;
+  margin: 0;
+}
+[class*="pimg"] {
+  width: 100%;
+}
+body{
+width: 100%:
 }
 }
