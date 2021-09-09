@@ -146,13 +146,13 @@ a {
 }
 .navbar-default {
   background-color: #000000;
-  padding-right: 50px;
+  padding-right: 20px;
   color: orange;
   width:100%
 }
 .navbar-brand {
   color: orange;
-  padding-left: 50px;
+  padding-left: 20px;
   text-transform: uppercase;
 }
 #title {
@@ -188,12 +188,11 @@ a {
 footer {
   background-color: #000000 ;
   color:#ffffff ;
-  font-size: 85%; 
+  font-size: 15px; 
   height: 100px;
   width: 100%;
   text-transform: uppercase;
   text-align: left;
-  padding-left: 50px;
 }
 img {
   display: block;
@@ -253,14 +252,12 @@ margin-right: auto;
 margin-left: auto;
 }
 @import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
-@import url(https://fonts.googleapis.com/css?family=Catamaran:600);
 .mySlides {display:none;
 padding-bottom: 80px;
 }
 .w3-left, .w3-right, .w3-badge {cursor:pointer;
 }
 .w3-badge {height:13px;width:13px;padding:0;color: black;}
-
 textarea{
 resize: vertical;
 }
